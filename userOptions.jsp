@@ -11,7 +11,7 @@
 <form:form action = "searchFlights" modelAttribute="user">
 <h2>Welcome to the User Page</h2>
 <a href="search.jsp">Option for searching flights</a>
-<a href="modify.jsp">Option for modifying flights</a>
+<a href="update.jsp">Option for modifying flights</a>
 </form:form>
 </body>
 </html>
